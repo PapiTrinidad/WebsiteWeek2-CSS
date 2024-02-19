@@ -1,0 +1,40 @@
+.Overlay {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  /*I did the same here 
+  but changed some small details so it would work for this page.*/
+  .Center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  #KO {
+    background-color: green;
+  }
+
+  h1, h2, h3 {
+    color: white;
+    text-shadow: 2px 2px 4px black;
+  }
+
+  .MyP {
+    background-color: gold;
+  }
+  
+
+html {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p {
+  font-size: 25px;
+}
+
+#Link-Zelda {
+  font-size: 20px;
+}
